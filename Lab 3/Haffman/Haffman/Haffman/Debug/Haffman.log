@@ -1,0 +1,12 @@
+﻿  Solution.cpp
+h:\haffman\haffman\haffman\solution.cpp(21): warning C4018: <: несоответствие типов со знаком и без знака
+h:\haffman\haffman\haffman\solution.cpp(44): warning C4018: <: несоответствие типов со знаком и без знака
+h:\haffman\haffman\haffman\solution.cpp(46): warning C4018: <: несоответствие типов со знаком и без знака
+h:\haffman\haffman\haffman\solution.cpp(47): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+h:\haffman\haffman\haffman\solution.cpp(80): warning C4018: <: несоответствие типов со знаком и без знака
+h:\haffman\haffman\haffman\solution.cpp(88): warning C4018: <: несоответствие типов со знаком и без знака
+h:\haffman\haffman\haffman\solution.cpp(92): warning C4018: <: несоответствие типов со знаком и без знака
+h:\haffman\haffman\haffman\solution.cpp(101): warning C4101: FindFileData: неиспользованная локальная переменная
+h:\haffman\haffman\haffman\solution.cpp(102): warning C4101: hf: неиспользованная локальная переменная
+  Haffman.vcxproj -> H:\Haffman\Haffman\Debug\Haffman.exe
+  Haffman.vcxproj -> H:\Haffman\Haffman\Debug\Haffman.pdb (Full PDB)

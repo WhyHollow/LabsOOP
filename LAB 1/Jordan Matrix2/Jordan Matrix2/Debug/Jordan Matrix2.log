@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  Matrix.cpp
+h:\lab1\jordan matrix2\jordan matrix2\matrix.cpp(60): warning C4018: <: несоответствие типов со знаком и без знака
+h:\lab1\jordan matrix2\jordan matrix2\matrix.cpp(72): warning C4018: <: несоответствие типов со знаком и без знака
+h:\lab1\jordan matrix2\jordan matrix2\matrix.cpp(75): warning C4018: <: несоответствие типов со знаком и без знака
+h:\lab1\jordan matrix2\jordan matrix2\matrix.cpp(77): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+h:\lab1\jordan matrix2\jordan matrix2\matrix.cpp(135): warning C4018: <: несоответствие типов со знаком и без знака
+  Jordan Matrix2.cpp
+  Создание кода...
+h:\lab1\jordan matrix2\jordan matrix2\matrix.cpp(110): warning C4715: mtr::Matrix::getCell: значение возвращается не при всех путях выполнения
+  Jordan Matrix2.vcxproj -> H:\LAB1\Jordan Matrix2\Debug\Jordan Matrix2.exe
+  Jordan Matrix2.vcxproj -> H:\LAB1\Jordan Matrix2\Debug\Jordan Matrix2.pdb (Full PDB)

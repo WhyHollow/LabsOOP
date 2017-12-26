@@ -1,0 +1,4 @@
+﻿  main.cpp
+h:\lab 2 - brezenhem\lab 2 - brezenhem\main.cpp(55): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+  Lab 2 - Brezenhem.vcxproj -> H:\Lab 2 - Brezenhem\x64\Debug\Lab 2 - Brezenhem.exe
+  Lab 2 - Brezenhem.vcxproj -> H:\Lab 2 - Brezenhem\x64\Debug\Lab 2 - Brezenhem.pdb (Full PDB)

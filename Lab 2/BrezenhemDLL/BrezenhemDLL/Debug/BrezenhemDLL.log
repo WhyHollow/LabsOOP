@@ -1,0 +1,15 @@
+﻿Сборка начата 21.01.2017 15:28:14.
+     1>Проект "c:\Users\Мишко\documents\visual studio 2015\Projects\BrezenhemDLL\BrezenhemDLL\BrezenhemDLL.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D BREZENHEMDLL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\мишко\documents\visual studio 2015\Projects\BrezenhemDLL\Debug\BrezenhemDLL.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /DEF:"main.def" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"c:\users\мишко\documents\visual studio 2015\Projects\BrezenhemDLL\Debug\BrezenhemDLL.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\мишко\documents\visual studio 2015\Projects\BrezenhemDLL\Debug\BrezenhemDLL.lib" /MACHINE:X86 /DLL Debug\main.obj
+            Создается библиотека c:\users\мишко\documents\visual studio 2015\Projects\BrezenhemDLL\Debug\BrezenhemDLL.lib и объект c:\users\мишко\documents\visual studio 2015\Projects\BrezenhemDLL\Debug\BrezenhemDLL.exp
+     1>BrezenhemDLL.exp : warning LNK4070: директива /OUT:MyGraphics.dll в .EXP отличается от имени выходного файла "c:\users\мишко\documents\visual studio 2015\Projects\BrezenhemDLL\Debug\BrezenhemDLL.dll"; директива игнорируется
+         BrezenhemDLL.vcxproj -> c:\users\мишко\documents\visual studio 2015\Projects\BrezenhemDLL\Debug\BrezenhemDLL.dll
+     1>Сборка проекта "c:\Users\Мишко\documents\visual studio 2015\Projects\BrezenhemDLL\BrezenhemDLL\BrezenhemDLL.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:05.71
